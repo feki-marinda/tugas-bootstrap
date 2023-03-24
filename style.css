@@ -17,3 +17,11 @@ width: 175px;
     color:white;font-size: 12; 
     font-weight: bold;
 }
+.text1{
+    font-family: poppins; 
+    font-weight: bold;
+    font-size: 40px;
+}
+.font-family{
+    font-family: 'Poppins', sans-serif;
+}
