@@ -1,0 +1,19 @@
+.body{
+    background-image: url(Capture.PNG);
+    font-family: 'Poppins', sans-serif;
+}
+.logo{
+    width: 150px;
+    height: 30px;
+}
+.tombol{
+width: 175px;
+}
+.bulat{
+    height: 50px; 
+    width: 50px; 
+    background-color: rgb(79, 166, 236); 
+    text-align: center; 
+    color:white;font-size: 12; 
+    font-weight: bold;
+}
